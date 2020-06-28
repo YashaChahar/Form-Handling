@@ -1,0 +1,21 @@
+{
+  "name": "practice",
+  "version": "1.0.0",
+  "description": "This is a demo app to start with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yasha",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.4",
+    "express-session": "^1.17.1",
+    "mongodb": "^3.5.9",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.4"
+  }
+}
